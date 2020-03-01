@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653639919177",
+    "firebase_url": "https://martisor-04.firebaseio.com",
+    "project_id": "martisor-04",
+    "storage_bucket": "martisor-04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653639919177:android:29bcd72672d985202d8198",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653639919177-tb1ld5d4371japesdfpsdamnc9rg0og9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8eOOLm8HcRW-7LutoGCELy5K10VCtcjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653639919177-tb1ld5d4371japesdfpsdamnc9rg0og9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
